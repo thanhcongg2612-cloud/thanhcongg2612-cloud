@@ -1,5 +1,8 @@
-## Hi there 👋
-I love you!
+## Xin chào, mình là Công! 
+- Mình đang học : Công nghệ kỹ thuật máy tính - chuyên ngành thiết kế vi mạch tại trường IUH
+- Dự án tiêu biểu : https://thanhcongg2612-cloud.github.io
+- Liên hệ : facebook.com/Nguyễn Công
+  
 <!--
 **thanhcongg2612-cloud/thanhcongg2612-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
